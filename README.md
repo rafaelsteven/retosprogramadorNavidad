@@ -14,6 +14,7 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 | 4   | [Reto #4: 😵‍💫 Dale la vuelta a los paréntesis](https://adventjs.dev/es/challenges/2023/4) | [solución](./2023/dia4.js) | <img src="https://adventjs.dev/challenges-2023/4.png" width="50" height="50" /> | 230    |
 | 5   | [Reto #5: 🛷 El CyberTruck de Santa](https://adventjs.dev/es/challenges/2023/5) | [solución](./2023/dia5.js) | <img src="https://adventjs.dev/challenges-2023/5.png" width="50" height="50" /> | 160    |
 | 6   | [Reto #6: 🦌 Los renos a prueba](https://adventjs.dev/es/challenges/2023/6) | [solución](./2023/dia6.js) | <img src="https://adventjs.dev/challenges-2023/6.png" width="50" height="50" /> | 290    |
+| 7   | [Reto #7: 📦 Las cajas en 3D](https://adventjs.dev/es/challenges/2023/7) | [solución](./2023/dia7.js) | <img src="https://adventjs.dev/challenges-2023/7.png" width="50" height="50" /> | 290    |
 
 ## Como ejecutar el código :running:
 
